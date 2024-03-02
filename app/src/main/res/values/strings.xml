@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica4</string>
+    <string name="hint_titulo">Ingrese una cadena</string>
+    <string name="autor">Oscar Rivera Rodríguez</string>
+    <string name="chk_negrita">Negrita</string>
+    <string name="chk_cursiva">Cursiva</string>
+</resources>
